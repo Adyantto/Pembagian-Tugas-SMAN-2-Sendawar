@@ -1,0 +1,67 @@
+
+<!DOCTYPE html>
+<html lang="id">
+<head>
+  <meta charset="UTF-8">
+  <title>Rekap Tugas Guru</title>
+  <style>
+    body { font-family: Arial, sans-serif; margin: 30px; background: #f5f5f5; }
+    .container { max-width: 600px; margin: auto; background: white; padding: 30px; border-radius: 10px; box-shadow: 0 0 10px rgba(0,0,0,0.1); }
+    h2 { color: #333; }
+    input, button { padding: 10px; font-size: 16px; margin-top: 10px; width: 100%; }
+    .result { margin-top: 20px; border-top: 1px solid #ccc; padding-top: 20px; }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <h2>Portal Rekap Tugas Guru</h2>
+    <label for="username">Masukkan Nama (tanpa gelar, contoh: Nina Rosida):</label>
+    <input type="text" id="username" placeholder="Masukkan nama guru...">
+    <button onclick="cariTugas()">Lihat Tugas</button>
+    <div class="result" id="hasil"></div>
+  </div>
+
+  <script>
+    let dataGuru = {};
+
+    async function muatData() {
+      const response = await fetch('data_guru.json');
+      dataGuru = await response.json();
+    }
+
+    function cariTugas() {
+      const nama = document.getElementById("username").value.trim();
+      const info = dataGuru[nama];
+      const hasil = document.getElementById("hasil");
+
+      if (info) {
+        let html = `<h3>${nama}</h3>`;
+        html += `<p><strong>Mata Pelajaran:</strong> ${info.mapel}</p>`;
+
+        html += `<h4>Tugas Mengajar</h4><ul>`;
+        let totalMengajar = 0;
+        info.mengajar.forEach(item => {
+          html += `<li>${item.tingkat} (${item.kelas}) - ${item.jam} JP</li>`;
+          totalMengajar += item.jam;
+        });
+        html += `</ul><p><strong>Total Jam Mengajar:</strong> ${totalMengajar} JP</p>`;
+
+        html += `<h4>Tugas Tambahan</h4><ul>`;
+        let totalTambahan = 0;
+        info.tambahan.forEach(item => {
+          html += `<li>${item.jabatan} (${item.kelas}) - ${item.jam} JP</li>`;
+          totalTambahan += item.jam;
+        });
+        html += `</ul><p><strong>Total Jam Tugas Tambahan:</strong> ${totalTambahan} JP</p>`;
+
+        html += `<p><strong>Total Akumulasi JP:</strong> ${totalMengajar + totalTambahan} JP</p>`;
+        hasil.innerHTML = html;
+      } else {
+        hasil.innerHTML = `<p style='color:red;'>Data guru dengan nama "${nama}" tidak ditemukan.</p>`;
+      }
+    }
+
+    window.onload = muatData;
+  </script>
+</body>
+</html>
