@@ -1,0 +1,1101 @@
+{
+  "Jasmir": {
+    "mapel": "Agama Islam",
+    "mengajar": [
+      {
+        "tingkat": "X",
+        "kelas": "X A–H",
+        "jam": 24
+      },
+      {
+        "tingkat": "XI",
+        "kelas": "XI E–H",
+        "jam": 12
+      }
+    ],
+    "tambahan": []
+  },
+  "Febe Novita Sari": {
+    "mapel": "SBK",
+    "mengajar": [
+      {
+        "tingkat": "X",
+        "kelas": "X A–D",
+        "jam": 12
+      },
+      {
+        "tingkat": "XII",
+        "kelas": "XII A–D",
+        "jam": 8
+      }
+    ],
+    "tambahan": []
+  },
+  "Maleaki Karaeng Lolo": {
+    "mapel": "SBK",
+    "mengajar": [
+      {
+        "tingkat": "X",
+        "kelas": "X E–H",
+        "jam": 12
+      },
+      {
+        "tingkat": "XII",
+        "kelas": "XII E–H",
+        "jam": 8
+      }
+    ],
+    "tambahan": []
+  },
+  "Anastasia Rendo": {
+    "mapel": "Agama Katolik",
+    "mengajar": [
+      {
+        "tingkat": "X",
+        "kelas": "X A–H",
+        "jam": 24
+      },
+      {
+        "tingkat": "XI",
+        "kelas": "XI E–H",
+        "jam": 12
+      }
+    ],
+    "tambahan": []
+  },
+  "Mahdalena": {
+    "mapel": "Bahasa Indonesia",
+    "mengajar": [
+      {
+        "tingkat": "X",
+        "kelas": "X A–D",
+        "jam": 12
+      },
+      {
+        "tingkat": "XI",
+        "kelas": "XI E–F",
+        "jam": 8
+      }
+    ],
+    "tambahan": [
+      {
+        "jabatan": "Wali Kelas X C",
+        "kelas": "C",
+        "jam": 6
+      },
+      {
+        "jabatan": "Koor. Projek Kelas X G–H",
+        "kelas": "G–H",
+        "jam": 6
+      }
+    ]
+  },
+  "Muhammad Nasir": {
+    "mapel": "Bahasa Indonesia",
+    "mengajar": [
+      {
+        "tingkat": "X",
+        "kelas": "X E–H",
+        "jam": 12
+      },
+      {
+        "tingkat": "XI",
+        "kelas": "XI G–H",
+        "jam": 8
+      }
+    ],
+    "tambahan": [
+      {
+        "jabatan": "Koor. Projek Kelas XI G–H",
+        "kelas": "G–H",
+        "jam": 4
+      }
+    ]
+  },
+  "Agustinus Bhakti Parrangan": {
+    "mapel": "Bahasa Inggris",
+    "mengajar": [
+      {
+        "tingkat": "X",
+        "kelas": "X A–D",
+        "jam": 12
+      },
+      {
+        "tingkat": "XI",
+        "kelas": "XI A–D",
+        "jam": 12
+      }
+    ],
+    "tambahan": []
+  },
+  "Perawati": {
+    "mapel": "Sastra Inggris (Tk. Lanjut)",
+    "mengajar": [
+      {
+        "tingkat": "X",
+        "kelas": "X E–G",
+        "jam": 9
+      },
+      {
+        "tingkat": "XI",
+        "kelas": "XI A–B",
+        "jam": 10
+      }
+    ],
+    "tambahan": [
+      {
+        "jabatan": "Wali Kelas X F",
+        "kelas": "F",
+        "jam": 6
+      },
+      {
+        "jabatan": "Koor. Projek Kelas XII G–H",
+        "kelas": "G–H",
+        "jam": 6
+      }
+    ]
+  },
+  "Gunawan": {
+    "mapel": "Sastra Inggris (Tk. Lanjut)",
+    "mengajar": [
+      {
+        "tingkat": "X",
+        "kelas": "X H",
+        "jam": 3
+      },
+      {
+        "tingkat": "XI",
+        "kelas": "XI C–E",
+        "jam": 15
+      }
+    ],
+    "tambahan": [
+      {
+        "jabatan": "Wali Kelas XI E",
+        "kelas": "E",
+        "jam": 8
+      },
+      {
+        "jabatan": "Koor. Projek Kelas X A–C",
+        "kelas": "A–C",
+        "jam": 8
+      }
+    ]
+  },
+  "Petronela Sherlly": {
+    "mapel": "PKN",
+    "mengajar": [
+      {
+        "tingkat": "X",
+        "kelas": "X A–H",
+        "jam": 16
+      },
+      {
+        "tingkat": "XI",
+        "kelas": "XI F–H",
+        "jam": 6
+      }
+    ],
+    "tambahan": [
+      {
+        "jabatan": "Koor. Projek Kelas X D–F",
+        "kelas": "D–F",
+        "jam": 6
+      }
+    ]
+  },
+  "Nataniel Dedi Amba Toding": {
+    "mapel": "Matematika (Tk. Lanjut)",
+    "mengajar": [
+      {
+        "tingkat": "X",
+        "kelas": "X A–C",
+        "jam": 9
+      },
+      {
+        "tingkat": "XII",
+        "kelas": "XII A, E, G",
+        "jam": 15
+      }
+    ],
+    "tambahan": [
+      {
+        "jabatan": "Wali Kelas X A",
+        "kelas": "A",
+        "jam": 2
+      }
+    ]
+  },
+  "Nopita Putri Nasari": {
+    "mapel": "Matematika",
+    "mengajar": [
+      {
+        "tingkat": "X",
+        "kelas": "X D–H",
+        "jam": 15
+      },
+      {
+        "tingkat": "XI",
+        "kelas": "XI G–H",
+        "jam": 8
+      }
+    ],
+    "tambahan": [
+      {
+        "jabatan": "Koor. Projek Kelas XII F",
+        "kelas": "F",
+        "jam": 2
+      }
+    ]
+  },
+  "Saul": {
+    "mapel": "Fisika",
+    "mengajar": [
+      {
+        "tingkat": "X",
+        "kelas": "X A–E",
+        "jam": 15
+      }
+    ],
+    "tambahan": [
+      {
+        "jabatan": "Waka Kurikulum",
+        "kelas": "-",
+        "jam": 12
+      }
+    ]
+  },
+  "Enita": {
+    "mapel": "Fisika",
+    "mengajar": [
+      {
+        "tingkat": "X",
+        "kelas": "X F–H",
+        "jam": 9
+      },
+      {
+        "tingkat": "XII",
+        "kelas": "XII A, B, G",
+        "jam": 15
+      }
+    ],
+    "tambahan": [
+      {
+        "jabatan": "Wali Kelas XII G",
+        "kelas": "G",
+        "jam": 2
+      }
+    ]
+  },
+  "Rilati Sri Wahyuni": {
+    "mapel": "Kimia",
+    "mengajar": [
+      {
+        "tingkat": "X",
+        "kelas": "X A–E",
+        "jam": 15
+      },
+      {
+        "tingkat": "XI",
+        "kelas": "XI A–B",
+        "jam": 10
+      }
+    ],
+    "tambahan": [
+      {
+        "jabatan": "Wali Kelas XI H",
+        "kelas": "H",
+        "jam": 2
+      }
+    ]
+  },
+  "Yohana Fransiska Sella": {
+    "mapel": "Kimia",
+    "mengajar": [
+      {
+        "tingkat": "X",
+        "kelas": "X F–H",
+        "jam": 9
+      },
+      {
+        "tingkat": "XII",
+        "kelas": "XII E–G",
+        "jam": 15
+      }
+    ],
+    "tambahan": []
+  },
+  "R Arief Sidik Pramono": {
+    "mapel": "PKWU",
+    "mengajar": [
+      {
+        "tingkat": "X",
+        "kelas": "X A–C",
+        "jam": 9
+      },
+      {
+        "tingkat": "XI",
+        "kelas": "XI A–B",
+        "jam": 4
+      }
+    ],
+    "tambahan": [
+      {
+        "jabatan": "Kepala Laboratorium",
+        "kelas": "-",
+        "jam": 12
+      }
+    ]
+  },
+  "Romi Puspita": {
+    "mapel": "Biologi",
+    "mengajar": [
+      {
+        "tingkat": "X",
+        "kelas": "X D–G",
+        "jam": 12
+      },
+      {
+        "tingkat": "XI",
+        "kelas": "XI A–B",
+        "jam": 10
+      }
+    ],
+    "tambahan": [
+      {
+        "jabatan": "Pembina UKS",
+        "kelas": "-",
+        "jam": 2
+      }
+    ]
+  },
+  "Susilawati": {
+    "mapel": "Biologi",
+    "mengajar": [
+      {
+        "tingkat": "X",
+        "kelas": "X H",
+        "jam": 3
+      },
+      {
+        "tingkat": "XII",
+        "kelas": "XII C, D",
+        "jam": 10
+      }
+    ],
+    "tambahan": [
+      {
+        "jabatan": "Waka Humas",
+        "kelas": "-",
+        "jam": 14
+      },
+      {
+        "jabatan": "Penilai Kinerja Guru (PKG)",
+        "kelas": "-",
+        "jam": 14
+      }
+    ]
+  },
+  "Jufrin": {
+    "mapel": "Sosiologi",
+    "mengajar": [
+      {
+        "tingkat": "X",
+        "kelas": "X A–E",
+        "jam": 15
+      },
+      {
+        "tingkat": "XII",
+        "kelas": "XII C, D",
+        "jam": 10
+      }
+    ],
+    "tambahan": [
+      {
+        "jabatan": "Wali Kelas X B",
+        "kelas": "B",
+        "jam": 2
+      }
+    ]
+  },
+  "Nurmaya Sihotang": {
+    "mapel": "Sosiologi",
+    "mengajar": [
+      {
+        "tingkat": "X",
+        "kelas": "X F–H",
+        "jam": 9
+      },
+      {
+        "tingkat": "X",
+        "kelas": "X F–H",
+        "jam": 6
+      },
+      {
+        "tingkat": "XI",
+        "kelas": "XI A–B",
+        "jam": 10
+      }
+    ],
+    "tambahan": []
+  },
+  "Nurintan Togatorop": {
+    "mapel": "Ekonomi",
+    "mengajar": [
+      {
+        "tingkat": "X",
+        "kelas": "X A–H",
+        "jam": 24
+      }
+    ],
+    "tambahan": [
+      {
+        "jabatan": "Wali Kelas X H",
+        "kelas": "H",
+        "jam": 2
+      }
+    ]
+  },
+  "Natalia Tivo": {
+    "mapel": "Geografi",
+    "mengajar": [
+      {
+        "tingkat": "X",
+        "kelas": "X A–D",
+        "jam": 12
+      },
+      {
+        "tingkat": "XII",
+        "kelas": "XII H, G",
+        "jam": 10
+      }
+    ],
+    "tambahan": [
+      {
+        "jabatan": "Wali Kelas X D",
+        "kelas": "D",
+        "jam": 2
+      }
+    ]
+  },
+  "Muhammad Afwan Maulana": {
+    "mapel": "Geografi",
+    "mengajar": [
+      {
+        "tingkat": "X",
+        "kelas": "X E–H",
+        "jam": 12
+      },
+      {
+        "tingkat": "XI",
+        "kelas": "XI A–B",
+        "jam": 10
+      }
+    ],
+    "tambahan": [
+      {
+        "jabatan": "Wali Kelas XI A",
+        "kelas": "A",
+        "jam": 2
+      }
+    ]
+  },
+  "Evaritus Abur": {
+    "mapel": "PJOK",
+    "mengajar": [
+      {
+        "tingkat": "X",
+        "kelas": "X A–D",
+        "jam": 12
+      },
+      {
+        "tingkat": "XI",
+        "kelas": "XI E–H",
+        "jam": 12
+      }
+    ],
+    "tambahan": []
+  },
+  "Satia Liri Yanti": {
+    "mapel": "PJOK",
+    "mengajar": [
+      {
+        "tingkat": "X",
+        "kelas": "X E–H",
+        "jam": 12
+      },
+      {
+        "tingkat": "XII",
+        "kelas": "XII E–H",
+        "jam": 12
+      }
+    ],
+    "tambahan": [
+      {
+        "jabatan": "Wali Kelas X E",
+        "kelas": "E",
+        "jam": 2
+      }
+    ]
+  },
+  "Siti Aminah": {
+    "mapel": "PKWU",
+    "mengajar": [
+      {
+        "tingkat": "X",
+        "kelas": "X A–H",
+        "jam": 16
+      },
+      {
+        "tingkat": "XII",
+        "kelas": "XII A, B, E, F",
+        "jam": 8
+      }
+    ],
+    "tambahan": [
+      {
+        "jabatan": "Wali Kelas X G",
+        "kelas": "G",
+        "jam": 2
+      }
+    ]
+  },
+  "Fetrus Fredy": {
+    "mapel": "Fisika",
+    "mengajar": [
+      {
+        "tingkat": "X",
+        "kelas": "X A–B",
+        "jam": 4
+      },
+      {
+        "tingkat": "XI",
+        "kelas": "XI A–D",
+        "jam": 20
+      }
+    ],
+    "tambahan": [
+      {
+        "jabatan": "Wali Kelas XI F",
+        "kelas": "F",
+        "jam": 2
+      }
+    ]
+  },
+  "Listiana": {
+    "mapel": "Kimia",
+    "mengajar": [
+      {
+        "tingkat": "X",
+        "kelas": "X C–H",
+        "jam": 12
+      },
+      {
+        "tingkat": "XI",
+        "kelas": "XI C–D",
+        "jam": 10
+      }
+    ],
+    "tambahan": []
+  },
+  "Mulyadi": {
+    "mapel": "PKN",
+    "mengajar": [
+      {
+        "tingkat": "X",
+        "kelas": "X A–E",
+        "jam": 10
+      },
+      {
+        "tingkat": "XII",
+        "kelas": "XII A, B, C, D",
+        "jam": 8
+      }
+    ],
+    "tambahan": [
+      {
+        "jabatan": "Wali Kelas XII F",
+        "kelas": "F",
+        "jam": 6
+      },
+      {
+        "jabatan": "Koor. Projek Kelas XII A–B",
+        "kelas": "A–B",
+        "jam": 6
+      }
+    ]
+  },
+  "Emiliana": {
+    "mapel": "SBK",
+    "mengajar": [
+      {
+        "tingkat": "X",
+        "kelas": "X A–D",
+        "jam": 8
+      },
+      {
+        "tingkat": "XI",
+        "kelas": "XI A–H",
+        "jam": 16
+      }
+    ],
+    "tambahan": []
+  },
+  "Fidelis Anastasius F": {
+    "mapel": "Muatan Lokal",
+    "mengajar": [
+      {
+        "tingkat": "X",
+        "kelas": "X E–H",
+        "jam": 8
+      },
+      {
+        "tingkat": "XI",
+        "kelas": "XI A–D",
+        "jam": 12
+      },
+      {
+        "tingkat": "XI",
+        "kelas": "XI E–H",
+        "jam": 8
+      }
+    ],
+    "tambahan": []
+  },
+  "Vidrich Dendi": {
+    "mapel": "Bimbingan Konseling",
+    "mengajar": [
+      {
+        "tingkat": "X",
+        "kelas": "X A–H",
+        "jam": 16
+      },
+      {
+        "tingkat": "XII",
+        "kelas": "XII E–H",
+        "jam": 8
+      }
+    ],
+    "tambahan": []
+  },
+  "M Nasir": {
+    "mapel": "Agama Islam",
+    "mengajar": [
+      {
+        "tingkat": "XI",
+        "kelas": "XI A–D",
+        "jam": 12
+      },
+      {
+        "tingkat": "XII",
+        "kelas": "XII A–H",
+        "jam": 24
+      }
+    ],
+    "tambahan": []
+  },
+  "Sopiana": {
+    "mapel": "Agama Kristen",
+    "mengajar": [
+      {
+        "tingkat": "XI",
+        "kelas": "XI A–H",
+        "jam": 24
+      }
+    ],
+    "tambahan": []
+  },
+  "Yuvenalis Raga Gening": {
+    "mapel": "Agama Katolik",
+    "mengajar": [
+      {
+        "tingkat": "XI",
+        "kelas": "XI A–D",
+        "jam": 12
+      },
+      {
+        "tingkat": "XII",
+        "kelas": "XII A–H",
+        "jam": 24
+      }
+    ],
+    "tambahan": []
+  },
+  "Imas Komala": {
+    "mapel": "Bahasa Indonesia",
+    "mengajar": [
+      {
+        "tingkat": "XI",
+        "kelas": "XI A–B",
+        "jam": 8
+      },
+      {
+        "tingkat": "XII",
+        "kelas": "XII E–H",
+        "jam": 16
+      }
+    ],
+    "tambahan": [
+      {
+        "jabatan": "Wali Kelas XII E",
+        "kelas": "E",
+        "jam": 2
+      }
+    ]
+  },
+  "Hasni Salondong": {
+    "mapel": "Bahasa Indonesia",
+    "mengajar": [
+      {
+        "tingkat": "XI",
+        "kelas": "XI C–D",
+        "jam": 8
+      },
+      {
+        "tingkat": "XII",
+        "kelas": "XII A–D",
+        "jam": 16
+      }
+    ],
+    "tambahan": [
+      {
+        "jabatan": "Wali Kelas XI C",
+        "kelas": "C",
+        "jam": 2
+      }
+    ]
+  },
+  "Yudha Kalvari": {
+    "mapel": "Muatan Lokal",
+    "mengajar": [
+      {
+        "tingkat": "XI",
+        "kelas": "XI E–H",
+        "jam": 12
+      },
+      {
+        "tingkat": "XI",
+        "kelas": "XI A–D",
+        "jam": 8
+      }
+    ],
+    "tambahan": [
+      {
+        "jabatan": "Wali Kelas XI G",
+        "kelas": "G",
+        "jam": 8
+      },
+      {
+        "jabatan": "Koor. Projek Kelas XI D–F",
+        "kelas": "D–F",
+        "jam": 8
+      }
+    ]
+  },
+  "Maria Dwi OL": {
+    "mapel": "Sejarah",
+    "mengajar": [
+      {
+        "tingkat": "XI",
+        "kelas": "XI A–H",
+        "jam": 16
+      },
+      {
+        "tingkat": "XII",
+        "kelas": "XII A–H",
+        "jam": 16
+      }
+    ],
+    "tambahan": []
+  },
+  "Nina Rosida": {
+    "mapel": "Matematika",
+    "mengajar": [
+      {
+        "tingkat": "XI",
+        "kelas": "XI A–B",
+        "jam": 8
+      },
+      {
+        "tingkat": "XII",
+        "kelas": "XII A–D",
+        "jam": 16
+      }
+    ],
+    "tambahan": [
+      {
+        "jabatan": "Wali Kelas XII A",
+        "kelas": "A",
+        "jam": 2
+      }
+    ]
+  },
+  "Katrina Pareallo": {
+    "mapel": "Matematika (Tk. Lanjut)",
+    "mengajar": [
+      {
+        "tingkat": "XI",
+        "kelas": "XI C–D",
+        "jam": 8
+      },
+      {
+        "tingkat": "XI",
+        "kelas": "XI E–G",
+        "jam": 15
+      }
+    ],
+    "tambahan": []
+  },
+  "Albina Purnama Sari": {
+    "mapel": "Matematika",
+    "mengajar": [
+      {
+        "tingkat": "XI",
+        "kelas": "XI E–F",
+        "jam": 8
+      },
+      {
+        "tingkat": "XII",
+        "kelas": "XII E–H",
+        "jam": 16
+      }
+    ],
+    "tambahan": [
+      {
+        "jabatan": "Wali Kelas XII H",
+        "kelas": "H",
+        "jam": 2
+      }
+    ]
+  },
+  "Adiyanto": {
+    "mapel": "PKWU",
+    "mengajar": [
+      {
+        "tingkat": "XI",
+        "kelas": "XI E–F",
+        "jam": 10
+      },
+      {
+        "tingkat": "XII",
+        "kelas": "XII C, D, G, H",
+        "jam": 8
+      }
+    ],
+    "tambahan": [
+      {
+        "jabatan": "Kepala Perpustakaan",
+        "kelas": "-",
+        "jam": 12
+      },
+      {
+        "jabatan": "Wali Kelas XII D",
+        "kelas": "D",
+        "jam": 12
+      }
+    ]
+  },
+  "Meydi Susanti": {
+    "mapel": "Ekonomi",
+    "mengajar": [
+      {
+        "tingkat": "XI",
+        "kelas": "XI C–D",
+        "jam": 10
+      },
+      {
+        "tingkat": "XII",
+        "kelas": "XII E–G",
+        "jam": 15
+      }
+    ],
+    "tambahan": [
+      {
+        "jabatan": "Koor PKB/PKG",
+        "kelas": "-",
+        "jam": 2
+      }
+    ]
+  },
+  "Florens Marse Tandi": {
+    "mapel": "PKWU",
+    "mengajar": [
+      {
+        "tingkat": "XI",
+        "kelas": "XI G–H",
+        "jam": 10
+      },
+      {
+        "tingkat": "XI",
+        "kelas": "XI C–H",
+        "jam": 12
+      }
+    ],
+    "tambahan": [
+      {
+        "jabatan": "Wali Kelas XI D",
+        "kelas": "D",
+        "jam": 2
+      }
+    ]
+  },
+  "Mira Henny Asmiati": {
+    "mapel": "Geografi",
+    "mengajar": [
+      {
+        "tingkat": "XI",
+        "kelas": "XI C–D",
+        "jam": 10
+      },
+      {
+        "tingkat": "XII",
+        "kelas": "XII A–C",
+        "jam": 15
+      }
+    ],
+    "tambahan": []
+  },
+  "Meylinda": {
+    "mapel": "Informatika",
+    "mengajar": [
+      {
+        "tingkat": "XI",
+        "kelas": "XI A–B",
+        "jam": 10
+      },
+      {
+        "tingkat": "XII",
+        "kelas": "XII G, H, F",
+        "jam": 15
+      }
+    ],
+    "tambahan": []
+  },
+  "Al Misbah Hajihi": {
+    "mapel": "PKN",
+    "mengajar": [
+      {
+        "tingkat": "XI",
+        "kelas": "XI A–E",
+        "jam": 10
+      },
+      {
+        "tingkat": "XII",
+        "kelas": "XII E, F, G, H",
+        "jam": 8
+      }
+    ],
+    "tambahan": [
+      {
+        "jabatan": "Wali Kelas XI B",
+        "kelas": "B",
+        "jam": 8
+      },
+      {
+        "jabatan": "Koor. Projek Kelas XI A–C",
+        "kelas": "A–C",
+        "jam": 8
+      }
+    ]
+  },
+  "Rifky Ibnu Abdul A": {
+    "mapel": "Bimbingan Konseling",
+    "mengajar": [
+      {
+        "tingkat": "XI",
+        "kelas": "XI A–H",
+        "jam": 16
+      },
+      {
+        "tingkat": "XII",
+        "kelas": "XII A–D",
+        "jam": 8
+      }
+    ],
+    "tambahan": []
+  },
+  "Marlin Mario Eva Sumual": {
+    "mapel": "Agama Kristen",
+    "mengajar": [
+      {
+        "tingkat": "XII",
+        "kelas": "XII A–H",
+        "jam": 24
+      }
+    ],
+    "tambahan": []
+  },
+  "Stivan Margus Picasouw": {
+    "mapel": "Bahasa Inggris",
+    "mengajar": [
+      {
+        "tingkat": "XII",
+        "kelas": "XII A–H",
+        "jam": 24
+      }
+    ],
+    "tambahan": [
+      {
+        "jabatan": "Wali Kelas XII B",
+        "kelas": "B",
+        "jam": 2
+      }
+    ]
+  },
+  "Sumarmi": {
+    "mapel": "Kimia",
+    "mengajar": [
+      {
+        "tingkat": "XII",
+        "kelas": "XII A–D",
+        "jam": 20
+      }
+    ],
+    "tambahan": [
+      {
+        "jabatan": "Waka Sapras",
+        "kelas": "-",
+        "jam": 12
+      }
+    ]
+  },
+  "Elisius Junaidi": {
+    "mapel": "PJOK",
+    "mengajar": [
+      {
+        "tingkat": "XII",
+        "kelas": "XII A–D",
+        "jam": 12
+      }
+    ],
+    "tambahan": [
+      {
+        "jabatan": "Waka Kesiswaan",
+        "kelas": "-",
+        "jam": 12
+      },
+      {
+        "jabatan": "Wali Kelas XII C",
+        "kelas": "C",
+        "jam": 12
+      }
+    ]
+  },
+  "Yosep Arakian Lepabatang": {
+    "mapel": "Sastra Inggris (Tk. Lanjut)",
+    "mengajar": [
+      {
+        "tingkat": "XII",
+        "kelas": "XII C, D, E",
+        "jam": 15
+      }
+    ],
+    "tambahan": [
+      {
+        "jabatan": "Koor. Projek Kelas XII C–E",
+        "kelas": "C–E",
+        "jam": 6
+      }
+    ]
+  }
+}
